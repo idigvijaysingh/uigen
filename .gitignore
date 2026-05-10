@@ -1,0 +1,8 @@
+CLAUDE.md
+CLAUDE.local.md
+.env
+.env.local
+.env*.local
+node_modules/
+.next/
+prisma/dev.db
